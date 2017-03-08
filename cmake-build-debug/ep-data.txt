@@ -1,0 +1,7 @@
+Focal length of objective: 7 mm
+f.l. eyepiece magnification
+1.16
+2.23
+3.32
+5.51
+6.61
