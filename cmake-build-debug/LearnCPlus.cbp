@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LearnCPlus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LearnCPlus">
+				<Option output="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/LearnCPlus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 LearnCPlus"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LearnCPlus/fast">
+				<Option output="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/LearnCPlus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/7.0.2/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 LearnCPlus/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/enter/main.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/1_1_hello.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_11_structur.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_17_2_use_delete.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_17_use_new.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_18_arraynew.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_20_ptrstr.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_21_newstrct.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_24_vector_array.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_2_strings.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_4_instr2.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/4_7_string1.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/5_14_waiting.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/5_17_textin2.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/5_18_textin3.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/6_13_cinfinish.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/6_14_cingolf.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/6_15_outfile.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/6_16_sumafile.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_10_strgback.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_15_arrfun.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_18_func_ptr.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_5_arrfun1.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_7_arrfun3.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/7_9_strgfun.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_11_funtemplate.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_12_overloadtemplate.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_13_special_template.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_1_inline.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_6_structref.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/8_8_filefunc.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_11_namesp.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_12_namesp_excut.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_5_external.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_6_support.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_7_namespace_demo.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/mytimer/11_1_mytimer.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/mytimer/11_1_mytimer.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stack/10_10_stack.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stack/10_10_stack.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stock/10_1_stock.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stock/10_1_stock.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/string/12_1_string.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/string/12_1_string.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_ratedplayer.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_ratedplayer.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_tabten.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_tabten.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/vector/11_13_vector.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/vector/11_13_vector.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/10_1_usestock.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/11_13_usevector.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/11_1_usetime.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/12_1_usestring.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/12_9_placenew.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/13_1_usetabten.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/10_1_usestock.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/11_13_usevector.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/11_1_usetime.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/12_1_usestring.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/12_9_placenew.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/13_1_usetabten.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/1_1_hello.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_11_structur.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_17_2_use_delete.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_17_use_new.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_18_arraynew.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_20_ptrstr.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_21_newstrct.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_24_vector_array.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_2_strings.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_4_instr2.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/4_7_string1.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/5_14_waiting.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/5_17_textin2.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/5_18_textin3.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/6_13_cinfinish.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/6_14_cingolf.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/6_15_outfile.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/6_16_sumafile.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_10_strgback.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_15_arrfun.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_18_func_ptr.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_5_arrfun1.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_7_arrfun3.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/7_9_strgfun.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_11_funtemplate.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_12_overloadtemplate.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_13_special_template.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_1_inline.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_6_structref.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/8_8_filefunc.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/9_11_namesp.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/9_12_namesp_excut.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/9_5_external.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/9_6_support.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/9_7_namespace_demo.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
