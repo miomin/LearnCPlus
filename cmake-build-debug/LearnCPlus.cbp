@@ -83,6 +83,9 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/enter/main.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/14_1_valarray.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/1_1_hello.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -188,6 +191,12 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/header/9_7_namespace_demo.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/brass/13_7_brass.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/brass/13_7_brass.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/mytimer/11_1_mytimer.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -200,6 +209,9 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stack/10_10_stack.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stacktp/14_13_stack.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stock/10_1_stock.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -210,6 +222,12 @@
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/string/12_1_string.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/student/14_1_student.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/student/14_1_student.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_ratedplayer.cpp">
@@ -230,6 +248,18 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/vector/11_13_vector.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/worker/14_7_worker.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/worker/14_7_worker.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/14_13_usestacktp.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/14_1_valarray.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/10_1_usestock.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -248,6 +278,12 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/13_1_usetabten.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/13_9_usebrass.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/header/14_7_useworker.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/10_1_usestock.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -264,6 +300,12 @@
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/13_1_usetabten.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/13_9_usebrass.cpp">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/excute/source/14_7_useworker.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/source/1_1_hello.cpp">
