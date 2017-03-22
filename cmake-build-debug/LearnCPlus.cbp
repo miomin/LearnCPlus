@@ -209,9 +209,6 @@
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stack/10_10_stack.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
-		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stacktp/14_13_stack.h">
-			<Option target="LearnCPlus"/>
-		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/stock/10_1_stock.cpp">
 			<Option target="LearnCPlus"/>
 		</Unit>
@@ -240,6 +237,12 @@
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/tabten/13_1_tabten.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/template/array/14_17_arraytp.h">
+			<Option target="LearnCPlus"/>
+		</Unit>
+		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/template/stacktp/14_13_stack.h">
 			<Option target="LearnCPlus"/>
 		</Unit>
 		<Unit filename="/Users/miomin/Desktop/workspaces/CLion/LearnCPlus/oop/class/vector/11_13_vector.cpp">
